@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "fast-glob": "^2.2.6",
-    "jasmine-core": "~3.5.0"
+    "jasmine-core": "git+https://github.com/zeicmann/jasmine.git"
   },
   "bin": "./bin/jasmine.js",
   "main": "./lib/jasmine.js",
